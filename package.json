@@ -1,5 +1,6 @@
 {
   "name": "mein-projekt",
+  "homepage": "www.meine-seite.de",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
