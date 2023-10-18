@@ -13,7 +13,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit new <code>src/App.js</code> and save to reload.
         </p>
         <p>
           Hallo welt, Ich bin {wert} Jahre alt und nicht {dieZahl()}.
