@@ -16,7 +16,7 @@ function App() {
           Edit new <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          Hallo welt, Ich bin {wert} Jahre alt und nicht {dieZahl()}.
+          Caglar , Ich bin {wert} Jahre alt und nicht {dieZahl()}.
         </p>
         <a
           className="App-link"
