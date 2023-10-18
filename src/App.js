@@ -19,6 +19,7 @@ function App() {
         <p>
           Ich bin {wert} Jahre alt und nicht {dieZahl()}.
         </p>
+        <p>Hallo</p>
         <a
           className="App-link"
           href="https://reactjs.org"
